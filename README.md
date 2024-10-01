@@ -3,6 +3,8 @@
 
 ## Чистые функции
 
+[![Build status](https://ci.appveyor.com/api/projects/status/t42h2v5i8fxtfwbe?svg=true)](https://ci.appveyor.com/project/BudTon/pure-functions-6uuar)
+
 ### Легенда
 
 Во время игры нам необходимо будет отображать полоску жизни над игровым персонажем. Для сигнализации пользователю мы решили ввести цветовую индикацию:
