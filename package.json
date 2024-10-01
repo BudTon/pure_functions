@@ -1,0 +1,24 @@
+{
+  "name": "pure_functions",
+  "version": "1.0.0",
+  "description": "Во время игры нам необходимо будет отображать полоску жизни над игровым персонажем. Для сигнализации пользователю мы решили ввести цветовую индикацию:\r 1. Здоровье более 50 - зелёный;\r 1. Здоровье от 50 и до 15 - жёлтый;\r 1. Менее 15 - красный.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "jest --coverage"
+  },
+  "author": "BudTon",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@eslint/js": "^9.11.1",
+    "eslint": "^9.11.1",
+    "globals": "^15.9.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.38.1"
+  }
+}
